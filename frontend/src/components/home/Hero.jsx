@@ -9,7 +9,7 @@ const Hero = () => {
         <h1 className="text-transform: uppercase text-gray-900 text-4xl lg:6xl font-semibold mb-6">
           Transform Your Space with Therapeutic Art
         </h1>
-        <p className="text-lg font-light text-gray-500">
+        <dic className="text-lg font-light text-gray-500">
           Discover a curated collection of unique art pieces designed to
           inspire, calm, and rejuvenate your mind and soul. Our therapeutic
           artworks blend creativity and emotion to create the perfect ambiance
@@ -18,7 +18,7 @@ const Hero = () => {
           <NavLink to={"/products"}>
             <CTAbutton ButtonText="Shop Now" />
           </NavLink>
-        </p>
+        </dic>
       </div>
 
       <div>
